@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Masudaen Corporation',
-  description: 'Masudaen Corporation',
+  description: 'Masudan Corporation',
   viewport: 'width=device-width, initial-scale=1',
  
 }
